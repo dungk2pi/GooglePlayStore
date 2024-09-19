@@ -1,0 +1,11 @@
+department: bộ phận
+conservation: bảo tồn
+statewide: tiểu bang
+compact: nhỏ gọn
+wealthy: giàu có
+faithful: chung thủy
+realistic: thực tế
+conserve: giữ gìn
+leasing: cho thuê
+rather than = instead of: thay vì
+distribution: phân phối
